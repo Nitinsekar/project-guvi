@@ -1,0 +1,28 @@
+*, *::after, *::before{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: #f2e8cf;
+
+}
+
+.register.container-sm{
+    border-radius: 20px;
+    max-width: 400px;
+}
+.login.container-sm{
+    border-radius: 20px;
+    max-width: 400px;
+}
+
+.profile.container-sm{
+    border-radius: 20px;
+    max-width: 400px;
+}
+
+.register .btn, .login .btn, .profile .btn{
+    margin: 0 auto;
+}
